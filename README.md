@@ -1,16 +1,27 @@
-## Hi there 👋
+## Currículo
 
-<!--
-**Luvjxhn/Luvjxhn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Nome: John Eder
+Formação: Ensino Fundamental completo
+Idade: 16
+Contato: xdbreyg@gmail.com
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Conhecimentos em Programação
+
+Python (básico)
+
+SQLite
+
+Uso básico do Python para criar scripts simples e conectar com bancos de dados SQLite
+
+## conhecimentos em robotica
+
+# Cursado em robotica pela ifmt
+programação de robos usando python
+
+## Experiencia profissional
+
+Uso de sistemas com banco de dados para atendimento ao publico,
+voltado a agendas e consultas
